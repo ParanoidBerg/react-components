@@ -1,0 +1,59 @@
+.counter {
+  position: absolute;
+  width: 182px;
+  height: 339px;
+  left: 628px;
+  top: 112px;
+
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 288px;
+  line-height: 339px;
+
+  text-align: center;
+
+  color: #f27c0f;
+}
+.btnCnt {
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  width: 710px;
+  height: 58px;
+  left: 365px;
+  top: 481px;
+}
+.bigger {
+  width: 200px;
+  height: 58px;
+  left: 365px;
+  top: 481px;
+  color: #ffff;
+  background: #003399;
+  border-radius: 4px;
+  border: none;
+  font-size: large;
+}
+.lesser {
+  width: 200px;
+  height: 58px;
+  left: 620px;
+  top: 481px;
+  color: #ffff;
+  background: #f27c0f;
+  border-radius: 4px;
+  border: none;
+  font-size: large;
+}
+.cancel {
+  width: 200px;
+  height: 58px;
+  left: 620px;
+  top: 481px;
+  color: #ffff;
+  background: #e5e5e5;
+  border-radius: 4px;
+  border: none;
+  font-size: large;
+}
